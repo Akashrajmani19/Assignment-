@@ -122,6 +122,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+tensor_lib
+
 env/
 venv/
 ENV/
